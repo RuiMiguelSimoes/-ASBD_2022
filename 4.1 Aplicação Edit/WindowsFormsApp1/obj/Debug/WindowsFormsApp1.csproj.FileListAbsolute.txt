@@ -1,0 +1,37 @@
+C:\Users\Simoe\Documents\UniversidadeBeiraInterior\Aplicações sobre bases de dados\Trabalho\4.1 Aplicação Edit\4.1 Aplicação Edit\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Simoe\Documents\UniversidadeBeiraInterior\Aplicações sobre bases de dados\Trabalho\4.1 Aplicação Edit\4.1 Aplicação Edit\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Simoe\Documents\UniversidadeBeiraInterior\Aplicações sobre bases de dados\Trabalho\4.1 Aplicação Edit\4.1 Aplicação Edit\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Simoe\Documents\UniversidadeBeiraInterior\Aplicações sobre bases de dados\Trabalho\4.1 Aplicação Edit\4.1 Aplicação Edit\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\Simoe\Documents\UniversidadeBeiraInterior\Aplicações sobre bases de dados\Trabalho\4.1 Aplicação Edit\4.1 Aplicação Edit\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Simoe\Documents\UniversidadeBeiraInterior\Aplicações sobre bases de dados\Trabalho\4.1 Aplicação Edit\4.1 Aplicação Edit\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\Simoe\Documents\UniversidadeBeiraInterior\Aplicações sobre bases de dados\Trabalho\4.1 Aplicação Edit\4.1 Aplicação Edit\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Simoe\Documents\UniversidadeBeiraInterior\Aplicações sobre bases de dados\Trabalho\4.1 Aplicação Edit\4.1 Aplicação Edit\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\Simoe\Documents\UniversidadeBeiraInterior\Aplicações sobre bases de dados\Trabalho\4.1 Aplicação Edit\4.1 Aplicação Edit\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\Simoe\Documents\UniversidadeBeiraInterior\Aplicações sobre bases de dados\Trabalho\4.1 Aplicação Edit\4.1 Aplicação Edit\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Simoe\Documents\UniversidadeBeiraInterior\Aplicações sobre bases de dados\Trabalho\4.1 Aplicação Edit\4.1 Aplicação Edit\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\Simoe\Desktop\4.1 Aplicação Edit\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Simoe\Desktop\4.1 Aplicação Edit\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Simoe\Desktop\4.1 Aplicação Edit\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Simoe\Desktop\4.1 Aplicação Edit\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\Simoe\Desktop\4.1 Aplicação Edit\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Simoe\Desktop\4.1 Aplicação Edit\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\Simoe\Desktop\4.1 Aplicação Edit\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Simoe\Desktop\4.1 Aplicação Edit\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\Simoe\Desktop\4.1 Aplicação Edit\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\Simoe\Desktop\4.1 Aplicação Edit\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Simoe\Desktop\4.1 Aplicação Edit\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\Simoe\Desktop\4.1 Aplicação Edit\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form2.resources
+C:\Users\Simoe\Desktop\4.1 Aplicação Edit\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form3.resources
+C:\Users\Simoe\Documents\UniversidadeBeiraInterior\Aplicações sobre bases de dados\4.1 Aplicação Edit\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Simoe\Documents\UniversidadeBeiraInterior\Aplicações sobre bases de dados\4.1 Aplicação Edit\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Simoe\Documents\UniversidadeBeiraInterior\Aplicações sobre bases de dados\4.1 Aplicação Edit\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Simoe\Documents\UniversidadeBeiraInterior\Aplicações sobre bases de dados\4.1 Aplicação Edit\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\Simoe\Documents\UniversidadeBeiraInterior\Aplicações sobre bases de dados\4.1 Aplicação Edit\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Simoe\Documents\UniversidadeBeiraInterior\Aplicações sobre bases de dados\4.1 Aplicação Edit\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\Simoe\Documents\UniversidadeBeiraInterior\Aplicações sobre bases de dados\4.1 Aplicação Edit\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form2.resources
+C:\Users\Simoe\Documents\UniversidadeBeiraInterior\Aplicações sobre bases de dados\4.1 Aplicação Edit\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form3.resources
+C:\Users\Simoe\Documents\UniversidadeBeiraInterior\Aplicações sobre bases de dados\4.1 Aplicação Edit\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Simoe\Documents\UniversidadeBeiraInterior\Aplicações sobre bases de dados\4.1 Aplicação Edit\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\Simoe\Documents\UniversidadeBeiraInterior\Aplicações sobre bases de dados\4.1 Aplicação Edit\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\Simoe\Documents\UniversidadeBeiraInterior\Aplicações sobre bases de dados\4.1 Aplicação Edit\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Simoe\Documents\UniversidadeBeiraInterior\Aplicações sobre bases de dados\4.1 Aplicação Edit\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
