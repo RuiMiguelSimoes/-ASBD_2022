@@ -1,0 +1,12 @@
+C:\Users\Simoe\Documents\UniversidadeBeiraInterior\Aplicações sobre bases de dados\Trabalho\repo\4.4 Aplicação “Log”\Log\Log\obj\Debug\Log.csproj.AssemblyReference.cache
+C:\Users\Simoe\Documents\UniversidadeBeiraInterior\Aplicações sobre bases de dados\Trabalho\repo\4.4 Aplicação “Log”\Log\Log\obj\Debug\Log.csproj.SuggestedBindingRedirects.cache
+C:\Users\Simoe\Documents\UniversidadeBeiraInterior\Aplicações sobre bases de dados\Trabalho\repo\4.4 Aplicação “Log”\Log\Log\obj\Debug\Log.Form1.resources
+C:\Users\Simoe\Documents\UniversidadeBeiraInterior\Aplicações sobre bases de dados\Trabalho\repo\4.4 Aplicação “Log”\Log\Log\obj\Debug\Log.Form2.resources
+C:\Users\Simoe\Documents\UniversidadeBeiraInterior\Aplicações sobre bases de dados\Trabalho\repo\4.4 Aplicação “Log”\Log\Log\obj\Debug\Log.Properties.Resources.resources
+C:\Users\Simoe\Documents\UniversidadeBeiraInterior\Aplicações sobre bases de dados\Trabalho\repo\4.4 Aplicação “Log”\Log\Log\obj\Debug\Log.csproj.GenerateResource.cache
+C:\Users\Simoe\Documents\UniversidadeBeiraInterior\Aplicações sobre bases de dados\Trabalho\repo\4.4 Aplicação “Log”\Log\Log\obj\Debug\Log.csproj.CoreCompileInputs.cache
+C:\Users\Simoe\Documents\UniversidadeBeiraInterior\Aplicações sobre bases de dados\Trabalho\repo\4.4 Aplicação “Log”\Log\Log\bin\Debug\Log.exe.config
+C:\Users\Simoe\Documents\UniversidadeBeiraInterior\Aplicações sobre bases de dados\Trabalho\repo\4.4 Aplicação “Log”\Log\Log\bin\Debug\Log.exe
+C:\Users\Simoe\Documents\UniversidadeBeiraInterior\Aplicações sobre bases de dados\Trabalho\repo\4.4 Aplicação “Log”\Log\Log\bin\Debug\Log.pdb
+C:\Users\Simoe\Documents\UniversidadeBeiraInterior\Aplicações sobre bases de dados\Trabalho\repo\4.4 Aplicação “Log”\Log\Log\obj\Debug\Log.exe
+C:\Users\Simoe\Documents\UniversidadeBeiraInterior\Aplicações sobre bases de dados\Trabalho\repo\4.4 Aplicação “Log”\Log\Log\obj\Debug\Log.pdb

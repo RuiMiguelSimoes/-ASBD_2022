@@ -1,8 +1,10 @@
 {
   "ExpandedNodes": [
     "",
-    "\\4.2 Aplicação Browser"
+    "\\4.3 Aplicação “Log Tempo”",
+    "\\4.3 Aplicação “Log Tempo”\\logTempo",
+    "\\4.3 Aplicação “Log Tempo”\\logTempo\\logTempo"
   ],
-  "SelectedNode": "\\4.2 Aplicação Browser\\Browser.sln",
+  "SelectedNode": "\\4.3 Aplicação “Log Tempo”\\logTempo\\logTempo\\Form1.cs",
   "PreviewInSolutionExplorer": false
 }

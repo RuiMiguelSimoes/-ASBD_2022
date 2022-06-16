@@ -1,0 +1,12 @@
+C:\Users\Simoe\Documents\UniversidadeBeiraInterior\Aplicações sobre bases de dados\Trabalho\repo\4.3 Aplicação “Log Tempo”\logTempo\logTempo\bin\Debug\logTempo.exe.config
+C:\Users\Simoe\Documents\UniversidadeBeiraInterior\Aplicações sobre bases de dados\Trabalho\repo\4.3 Aplicação “Log Tempo”\logTempo\logTempo\bin\Debug\logTempo.exe
+C:\Users\Simoe\Documents\UniversidadeBeiraInterior\Aplicações sobre bases de dados\Trabalho\repo\4.3 Aplicação “Log Tempo”\logTempo\logTempo\bin\Debug\logTempo.pdb
+C:\Users\Simoe\Documents\UniversidadeBeiraInterior\Aplicações sobre bases de dados\Trabalho\repo\4.3 Aplicação “Log Tempo”\logTempo\logTempo\obj\Debug\logTempo.csproj.AssemblyReference.cache
+C:\Users\Simoe\Documents\UniversidadeBeiraInterior\Aplicações sobre bases de dados\Trabalho\repo\4.3 Aplicação “Log Tempo”\logTempo\logTempo\obj\Debug\logTempo.csproj.SuggestedBindingRedirects.cache
+C:\Users\Simoe\Documents\UniversidadeBeiraInterior\Aplicações sobre bases de dados\Trabalho\repo\4.3 Aplicação “Log Tempo”\logTempo\logTempo\obj\Debug\logTempo.Form1.resources
+C:\Users\Simoe\Documents\UniversidadeBeiraInterior\Aplicações sobre bases de dados\Trabalho\repo\4.3 Aplicação “Log Tempo”\logTempo\logTempo\obj\Debug\logTempo.Properties.Resources.resources
+C:\Users\Simoe\Documents\UniversidadeBeiraInterior\Aplicações sobre bases de dados\Trabalho\repo\4.3 Aplicação “Log Tempo”\logTempo\logTempo\obj\Debug\logTempo.csproj.GenerateResource.cache
+C:\Users\Simoe\Documents\UniversidadeBeiraInterior\Aplicações sobre bases de dados\Trabalho\repo\4.3 Aplicação “Log Tempo”\logTempo\logTempo\obj\Debug\logTempo.csproj.CoreCompileInputs.cache
+C:\Users\Simoe\Documents\UniversidadeBeiraInterior\Aplicações sobre bases de dados\Trabalho\repo\4.3 Aplicação “Log Tempo”\logTempo\logTempo\obj\Debug\logTempo.exe
+C:\Users\Simoe\Documents\UniversidadeBeiraInterior\Aplicações sobre bases de dados\Trabalho\repo\4.3 Aplicação “Log Tempo”\logTempo\logTempo\obj\Debug\logTempo.pdb
+C:\Users\Simoe\Documents\UniversidadeBeiraInterior\Aplicações sobre bases de dados\Trabalho\repo\4.3 Aplicação “Log Tempo”\logTempo\logTempo\obj\Debug\logTempo.Form2.resources

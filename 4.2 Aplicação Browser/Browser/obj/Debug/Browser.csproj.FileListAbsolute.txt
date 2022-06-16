@@ -22,3 +22,15 @@ C:\Users\Simoe\Downloads\browser\browser\Browser\Browser\obj\Debug\Browser.cspro
 C:\Users\Simoe\Downloads\browser\browser\Browser\Browser\obj\Debug\Browser.csproj.CoreCompileInputs.cache
 C:\Users\Simoe\Downloads\browser\browser\Browser\Browser\obj\Debug\Browser.exe
 C:\Users\Simoe\Downloads\browser\browser\Browser\Browser\obj\Debug\Browser.pdb
+C:\Users\Simoe\Documents\UniversidadeBeiraInterior\Aplicações sobre bases de dados\Trabalho\repo\4.2 Aplicação Browser\Browser\bin\Debug\Browser.exe.config
+C:\Users\Simoe\Documents\UniversidadeBeiraInterior\Aplicações sobre bases de dados\Trabalho\repo\4.2 Aplicação Browser\Browser\bin\Debug\Browser.exe
+C:\Users\Simoe\Documents\UniversidadeBeiraInterior\Aplicações sobre bases de dados\Trabalho\repo\4.2 Aplicação Browser\Browser\bin\Debug\Browser.pdb
+C:\Users\Simoe\Documents\UniversidadeBeiraInterior\Aplicações sobre bases de dados\Trabalho\repo\4.2 Aplicação Browser\Browser\obj\Debug\Browser.csproj.AssemblyReference.cache
+C:\Users\Simoe\Documents\UniversidadeBeiraInterior\Aplicações sobre bases de dados\Trabalho\repo\4.2 Aplicação Browser\Browser\obj\Debug\Browser.csproj.SuggestedBindingRedirects.cache
+C:\Users\Simoe\Documents\UniversidadeBeiraInterior\Aplicações sobre bases de dados\Trabalho\repo\4.2 Aplicação Browser\Browser\obj\Debug\Browser.Form1.resources
+C:\Users\Simoe\Documents\UniversidadeBeiraInterior\Aplicações sobre bases de dados\Trabalho\repo\4.2 Aplicação Browser\Browser\obj\Debug\Browser.Form2.resources
+C:\Users\Simoe\Documents\UniversidadeBeiraInterior\Aplicações sobre bases de dados\Trabalho\repo\4.2 Aplicação Browser\Browser\obj\Debug\Browser.Properties.Resources.resources
+C:\Users\Simoe\Documents\UniversidadeBeiraInterior\Aplicações sobre bases de dados\Trabalho\repo\4.2 Aplicação Browser\Browser\obj\Debug\Browser.csproj.GenerateResource.cache
+C:\Users\Simoe\Documents\UniversidadeBeiraInterior\Aplicações sobre bases de dados\Trabalho\repo\4.2 Aplicação Browser\Browser\obj\Debug\Browser.csproj.CoreCompileInputs.cache
+C:\Users\Simoe\Documents\UniversidadeBeiraInterior\Aplicações sobre bases de dados\Trabalho\repo\4.2 Aplicação Browser\Browser\obj\Debug\Browser.exe
+C:\Users\Simoe\Documents\UniversidadeBeiraInterior\Aplicações sobre bases de dados\Trabalho\repo\4.2 Aplicação Browser\Browser\obj\Debug\Browser.pdb
